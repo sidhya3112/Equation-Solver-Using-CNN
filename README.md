@@ -20,13 +20,13 @@ Equation solver enables users to solve handwritten equations. The scanned image 
 
 ## Architecture
 
-#### * Layer 1 - Zero Padding | Conv | Batch Normalization | Zero Padding | Conv | Batch Normalisation | Max Pooling
+#### Layer 1 - Zero Padding | Conv | Batch Normalization | Zero Padding | Conv | Batch Normalisation | Max Pooling
 
-#### * Layer 2 - Zero Padding | Conv | Batch Normalization | Zero Padding | Conv | Batch Normalisation | Max Pooling
+#### Layer 2 - Zero Padding | Conv | Batch Normalization | Zero Padding | Conv | Batch Normalisation | Max Pooling
 
-#### * Layer 3 - Zero Padding | Conv | Batch Normalization | Zero Padding | Conv | Batch Normalisation | Max Pooling
+#### Layer 3 - Zero Padding | Conv | Batch Normalization | Zero Padding | Conv | Batch Normalisation | Max Pooling
 
-#### * Layer 4 - Batch Normalization | Flatten | Dense | Dense | Batch Normalization | Dense
+#### Layer 4 - Batch Normalization | Flatten | Dense | Dense | Batch Normalization | Dense
 
 ## Github link
 
